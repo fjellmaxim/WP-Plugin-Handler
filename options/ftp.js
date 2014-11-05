@@ -1,9 +1,9 @@
 module.exports = {
 
 	options: {
-		host:'93.115.108.210',
-		user: 'fjell',
-		pass: 'AkCv6JwUCTMM'
+		host:'',
+		user: '',
+		pass: ''
 	},
 
 	upload: {
