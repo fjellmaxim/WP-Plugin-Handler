@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "load-grunt-tasks": "~1.0.0",
+    "cheerio": "~0.17.0",
+    "glob": "~4.0.6",
+    "http": "0.0.0",
+    "request": "~2.47.0",
+    "grunt-execute": "~0.2.2",
+    "grunt-ftp": "~1.0.1"
+  }
+}
